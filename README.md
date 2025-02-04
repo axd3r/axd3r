@@ -2,7 +2,7 @@
   <a href="#">
     <img width="40%" height="auto" src="./assets/images/banner.png" height="35px"/>
   </a>
-  <h3 align="center">Hey there, I'm <a href="https://carrillo.asynclogic.net/">Freddy</a>!!
+  <h3 align="center">Hey there, I'm <a href="https://carrillo.asynclogic.net/">Joaquín</a>!!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h3>
 </div>
@@ -12,6 +12,7 @@
 <picture> <img align="right" src="./assets/gifs/laptopp.gif" width = 150px></picture>
 
 <br>
+I am a Backend Software Engineer with a strong background in developing scalable and high-performance web applications. I specialize in designing robust APIs, optimizing databases, and ensuring efficient system architecture. With experience in Laravel, Node.js, and PostgreSQL, I focus on building secure and maintainable backend solutions that drive business success. My goal is to create impactful software that enhances productivity and streamlines operations.
 
 - :computer: I am a passionate Software Engineer with experience in developing web and mobile applications. My professional focus is on creating modern, functional and scalable solutions.
 - :computer: I love to continuously learn, develop impactful projects and share my knowledge with the community, whether developing educational projects or solving technical challenges.
@@ -33,7 +34,7 @@
     <td align="center">
       <span>NextJS</span>
       <br/><br/>
-      <a href="https://cursos.devtalles.com/certificates/xyfwmdfxit" target="_blank">
+      <a href="#" target="_blank">
         <img src="./assets/images/nextjs.jpeg" width = 50px/>
         <br />
         <span>(Ver certificado)</span>
@@ -42,7 +43,7 @@
     <td align="center">
       <span>TypeScript</span>
       <br/><br/>
-      <a href="https://cursos.devtalles.com/certificates/zqowpwnpdz" target="_blank">
+      <a href="" target="_blank">
         <img src="./assets/images/ts.png" width = 50px/>
         <br />
         <span>(Ver certificado)</span>
@@ -51,17 +52,8 @@
     <td align="center">
       <span>NodeJS</span>
       <br/><br/>
-      <a href="https://www.udemy.com/certificate/UC-a3f39d08-3261-47ec-8ebe-be60f15e9b48/" target="_blank">
+      <a href="" target="_blank">
         <img src="./assets/images/nodejs.png" width = 50px/>
-        <br />
-        <span>(Ver certificado)</span>
-      </a>
-    </td>
-    <td align="center">
-      <span>AWS Serverless</span>
-      <br/><br/>
-      <a href="https://cursos-dev.com/certificate/9YncXfSwCI" target="_blank">
-        <img src="./assets/images/aws.png" width = 50px/>
         <br />
         <span>(Ver certificado)</span>
       </a>
