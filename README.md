@@ -1,221 +1,123 @@
 <div align="center">
   <a href="#">
-    <img width="40%" height="auto" src="./assets/images/banner.png" height="35px"/>
+    <img src="./assets/images/banner.png" width="60%" height="auto"/>
   </a>
-  <h3 align="center">Hey there, I'm <a href="https://carrillo.asynclogic.net/">Joaquín</a>!!
+  <h3 align="center">
+    Hey there, I'm <a href="#">Joaquín</a>! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h3>
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+---
 
-<picture> <img align="right" src="./assets/gifs/laptopp.gif" width = 150px></picture>
+## 📌 About Me  
+<div align="left">
+  <img align="right" src="./assets/gifs/laptopp.gif" width="180px">
+</div>
 
-<br>
-I am a Backend Software Engineer with a strong background in developing scalable and high-performance web applications. I specialize in designing robust APIs, optimizing databases, and ensuring efficient system architecture. With experience in Laravel, Node.js, and PostgreSQL, I focus on building secure and maintainable backend solutions that drive business success. My goal is to create impactful software that enhances productivity and streamlines operations.
+👨‍💻 **Software Engineer | Backend Developer**  
+🔧 Specialized in **Laravel, Node.js, TypeScript & PostgreSQL**  
+🚀 Passionate about building **scalable** and **secure** applications  
+📚 Continuous learner, technology enthusiast, and problem solver  
 
-- :computer: I am a passionate Software Engineer with experience in developing web and mobile applications. My professional focus is on creating modern, functional and scalable solutions.
-- :computer: I love to continuously learn, develop impactful projects and share my knowledge with the community, whether developing educational projects or solving technical challenges.
-<br>
+---
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Skills
+## ⚡ Tech Stack
 
-<table>
-  <tr>
-    <td align="center">
-      <span>ReactJS</span>
-      <br/><br/>
-      <a href="#" target="_blank">
-        <img src="./assets/images/react.png" width = 50px/>
-        <br />
-        <span>(Ver certificado)</span>
-      </a>
-    </td>
-    <td align="center">
-      <span>NextJS</span>
-      <br/><br/>
-      <a href="#" target="_blank">
-        <img src="./assets/images/nextjs.jpeg" width = 50px/>
-        <br />
-        <span>(Ver certificado)</span>
-      </a>
-    </td>
-    <td align="center">
-      <span>TypeScript</span>
-      <br/><br/>
-      <a href="" target="_blank">
-        <img src="./assets/images/ts.png" width = 50px/>
-        <br />
-        <span>(Ver certificado)</span>
-      </a>
-    </td>
-    <td align="center">
-      <span>NodeJS</span>
-      <br/><br/>
-      <a href="" target="_blank">
-        <img src="./assets/images/nodejs.png" width = 50px/>
-        <br />
-        <span>(Ver certificado)</span>
-      </a>
-    </td>
-    <td align="center">
-      <span>Laravel</span>
-      <br/><br/>
-      <a href="#" target="_blank">
-        <img src="./assets/images/laravel.png" width = 50px/>
-        <br />
-        <span>(Ver certificado)</span>
-      </a>
-    </td>
-    <td align="center">
-      <span>React Native</span>
-      <br/><br/>
-      <a href="#" target="_blank">
-        <img src="./assets/images/expo.png" width = 50px/>
-        <br />
-        <span>(Ver certificado)</span>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/images/react.png" width="50px"><br/>ReactJS</td>
+      <td align="center"><img src="./assets/images/nextjs.jpeg" width="50px"><br/>NextJS</td>
+      <td align="center"><img src="./assets/images/ts.png" width="50px"><br/>TypeScript</td>
+      <td align="center"><img src="./assets/images/nodejs.png" width="50px"><br/>NodeJS</td>
+      <td align="center"><img src="./assets/images/laravel.png" width="50px"><br/>Laravel</td>
+      <td align="center"><img src="./assets/images/expo.png" width="50px"><br/>React Native</td>
+    </tr>
+  </table>
+</div>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+---
+
+## 🌍 Connect With Me  
+
 <p align="center">
-	<a href="mailto:freddycarrillotucto@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://wa.me/51976333995"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+  <a href="mailto:orihuelajoaquin99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://wa.me/51987535739">
+    <img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white">
+  </a>
 </p>
 
-## 📺 Private projects
+---
+
+## 🔒 Private Projects  
 
 <table>
   <tbody>
-  <!-- YOUTUBE:START -->
     <tr>
-      <td>
-        <a href="https://www.youtube.com/watch?v=nBSaJsp5abc">
-          <img width="140px" src="./assets/images/heavySystem.png">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/watch?v=nBSaJsp5abc">
-          Heavy Machinery Management System (Web & Mobile)
-        </a>
-        <br/>
-        (Constantly improving, private repository)
-      </td>
+      <td><a href="https://www.youtube.com/watch?v=nBSaJsp5abc"><img width="140px" src="./assets/images/heavySystem.png"></a></td>
+      <td><a href="https://www.youtube.com/watch?v=nBSaJsp5abc">Heavy Machinery Management System</a><br/>Web & Mobile (Private Repo)</td>
     </tr> 
     <tr>
-      <td>
-        <a href="">
-          <img width="140px" src="./assets/images/nodejsBackground.webp">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/FreddyCarrillo/CORE-NODE-API">
-          Core Node API
-        </a>
-        <br/>
-        (Constantly improving, public repository)
-      </td>
+      <td><a href="#"><img width="140px" src="./assets/images/nodejsBackground.webp"></a></td>
+      <td><a href="https://github.com/FreddyCarrillo/CORE-NODE-API">Core Node API</a><br/>Public Repository</td>
     </tr>
-  <!-- YOUTUBE:END -->
   </tbody>
 </table>
 
-## 📺 Challenges solved
+---
+
+## 🎯 Challenges Solved  
 
 <table>
   <tbody>
-  <!-- YOUTUBE:START -->
     <tr>
-      <td>
-        <a href="https://rimac-challenge.asynclogic.net/">
-          <img width="140px" src="./assets/images/RimacChallenge.png">
-        </a>
-      </td>
-      <td>
-        <a href="https://rimac-challenge.asynclogic.net/">
-          Rimac Challenge (2024)
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/asyncLogicAdmin/RIMAC-CHALLENGE">
-          Repository
-        </a>
-      </td>
+      <td><a href="https://rimac-challenge.asynclogic.net/"><img width="140px" src="./assets/images/RimacChallenge.png"></a></td>
+      <td><a href="https://rimac-challenge.asynclogic.net/">Rimac Challenge (2024)</a></td>
+      <td><a href="https://github.com/asyncLogicAdmin/RIMAC-CHALLENGE">Repository</a></td>
     </tr>
     <tr>
-      <td>
-        <a href="https://www.youtube.com/watch?v=yWA9t5McHuo">
-          <img width="140px" src="./assets/images/RickAndMortyChallenge.png">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/watch?v=yWA9t5McHuo">
-          Rick and Morty Challenge (2021)
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/FreddyCarrillo/rickAndMorty">
-          Repository
-        </a>
-      </td>
+      <td><a href="https://www.youtube.com/watch?v=yWA9t5McHuo"><img width="140px" src="./assets/images/RickAndMortyChallenge.png"></a></td>
+      <td><a href="https://www.youtube.com/watch?v=yWA9t5McHuo">Rick and Morty Challenge (2021)</a></td>
+      <td><a href="https://github.com/FreddyCarrillo/rickAndMorty">Repository</a></td>
     </tr>
-  <!-- YOUTUBE:END -->
   </tbody>
 </table>
 
-## 📺 Practical Classes: Discover the Projects I Teach
+---
 
-<span>
-  <a href="https://gist.github.com/FreddyCarrillo/2bada6edf6799d46693d69b15a0f3f60">
-    Click here
-  </a>
-  to open the tutorials and recorded classes.
-</span>
+## 🎓 Practical Classes: Discover My Tutorials  
 
-</br>
+📌 <a href="https://gist.github.com/FreddyCarrillo/2bada6edf6799d46693d69b15a0f3f60">Click here</a> to explore recorded classes and tutorials.  
+
 <table>
   <tbody>
-  <!-- YOUTUBE:START -->
     <tr>
-      <td>
-        eLearning Educational Platform (2025)
-      </td>
-      <td align="center">
-        FE (ReactJS + TS)
-        <br/>
-        <a href="https://github.com/FreddyCarrillo/FE-ELEARNING">
-          Repository
-        </a>
-      </td>
-      <td align="center">
-        BE (NodeJS)
-        <br/>
-        <a href="https://github.com/FreddyCarrillo/BE-ELEARNING">
-          Repository
-        </a>
-      </td>
+      <td>eLearning Educational Platform (2025)</td>
+      <td align="center">FE (ReactJS + TS)<br/><a href="https://github.com/FreddyCarrillo/FE-ELEARNING">Repository</a></td>
+      <td align="center">BE (NodeJS)<br/><a href="https://github.com/FreddyCarrillo/BE-ELEARNING">Repository</a></td>
     </tr>
     <tr>
-      <td>
-        Rental Services Control System (2025)
-      </td>
-      <td align="center">
-        FE (ReactJS + TS)
-        <br/>
-        <a href="https://github.com/FreddyCarrillo/FE-RENT-CONTROL">
-          Repository
-        </a>
-      </td>
-      <td align="center">
-        BE (NodeJS)
-        <br/>
-        <a href="https://github.com/FreddyCarrillo/BE-RENT-CONTROL">
-          Repository
-        </a>
-      </td>
+      <td>Rental Services Control System (2025)</td>
+      <td align="center">FE (ReactJS + TS)<br/><a href="https://github.com/FreddyCarrillo/FE-RENT-CONTROL">Repository</a></td>
+      <td align="center">BE (NodeJS)<br/><a href="https://github.com/FreddyCarrillo/BE-RENT-CONTROL">Repository</a></td>
     </tr>
-  <!-- YOUTUBE:END -->
   </tbody>
 </table>
+
+---
+
+### 🚀 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=axd3r&show_icons=true&theme=radical" width="450px"/>
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=axd3r&theme=radical" width="450px"/>-->
+</p>
+
+---
+
+## 🏆 Contributions  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=axd3r&theme=radical&row=1&column=6"/>
+</p>
