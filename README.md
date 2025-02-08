@@ -30,7 +30,7 @@
       <td align="center"><img src="./assets/images/react.png" width="50px"><br/>ReactJS</td>
       <td align="center"><img src="./assets/images/nextjs.jpeg" width="50px"><br/>NextJS</td>
       <td align="center"><img src="./assets/images/ts.png" width="50px"><br/>TypeScript</td>
-      <td align="center"><img src="./assets/images/nodejs.png" width="50px"><br/>NodeJS</td>
+      <td align="center"><img src="./assets/images/nodejs.png" width="50px"><br/>NodeJS<br /><a href="https://platzi.com/p/orihuelajoaquin99/learning-path/7048-web-node/diploma/detalle/" target="_blank">(ver certificado)</a></td>
       <td align="center"><img src="./assets/images/laravel.png" width="50px"><br/>Laravel</td>
       <td align="center"><img src="./assets/images/expo.png" width="50px"><br/>React Native</td>
     </tr>
@@ -62,7 +62,7 @@
     </tr> 
     <tr>
       <td><a href="#"><img width="140px" src="./assets/images/nodejsBackground.webp"></a></td>
-      <td><a href="https://github.com/FreddyCarrillo/CORE-NODE-API">Core Node API</a><br/>Public Repository</td>
+      <td><a href="https://github.com/axd3r/api-rest-red-social">Core Node API</a><br/>Public Repository</td>
     </tr>
   </tbody>
 </table>
