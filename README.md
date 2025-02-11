@@ -69,46 +69,6 @@
 
 ---
 
-## 🎯 Challenges Solved  
-
-<table>
-  <tbody>
-    <tr>
-      <td><a href="https://rimac-challenge.asynclogic.net/"><img width="140px" src="./assets/images/RimacChallenge.png"></a></td>
-      <td><a href="https://rimac-challenge.asynclogic.net/">Rimac Challenge (2024)</a></td>
-      <td><a href="https://github.com/asyncLogicAdmin/RIMAC-CHALLENGE">Repository</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.youtube.com/watch?v=yWA9t5McHuo"><img width="140px" src="./assets/images/RickAndMortyChallenge.png"></a></td>
-      <td><a href="https://www.youtube.com/watch?v=yWA9t5McHuo">Rick and Morty Challenge (2021)</a></td>
-      <td><a href="https://github.com/FreddyCarrillo/rickAndMorty">Repository</a></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-## 🎓 Practical Classes: Discover My Tutorials  
-
-📌 <a href="https://gist.github.com/FreddyCarrillo/2bada6edf6799d46693d69b15a0f3f60">Click here</a> to explore recorded classes and tutorials.  
-
-<table>
-  <tbody>
-    <tr>
-      <td>eLearning Educational Platform (2025)</td>
-      <td align="center">FE (ReactJS + TS)<br/><a href="https://github.com/FreddyCarrillo/FE-ELEARNING">Repository</a></td>
-      <td align="center">BE (NodeJS)<br/><a href="https://github.com/FreddyCarrillo/BE-ELEARNING">Repository</a></td>
-    </tr>
-    <tr>
-      <td>Rental Services Control System (2025)</td>
-      <td align="center">FE (ReactJS + TS)<br/><a href="https://github.com/FreddyCarrillo/FE-RENT-CONTROL">Repository</a></td>
-      <td align="center">BE (NodeJS)<br/><a href="https://github.com/FreddyCarrillo/BE-RENT-CONTROL">Repository</a></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
 ### 🚀 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=axd3r&show_icons=true&theme=radical" width="450px"/>
