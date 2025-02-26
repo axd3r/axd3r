@@ -33,6 +33,7 @@
       <td align="center"><img src="./assets/images/nodejs.png" width="50px"><br/>NodeJS<br /><a href="https://platzi.com/p/orihuelajoaquin99/learning-path/7048-web-node/diploma/detalle/" target="_blank">(ver certificado)</a></td>
       <td align="center"><img src="./assets/images/laravel.png" width="50px"><br/>Laravel</td>
       <td align="center"><img src="./assets/images/expo.png" width="50px"><br/>React Native</td>
+      <td align="center"><img src="./assets/images/vuejs.png" width="50px"><br/>VueJS<br /><a href="https://www.udemy.com/certificate/UC-d730c863-9d33-4063-83a3-7174d77e4604/" target="_blank">(ver certificado)</a></td>
     </tr>
   </table>
 </div>
