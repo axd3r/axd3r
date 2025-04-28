@@ -34,6 +34,8 @@
       <td align="center"><img src="./assets/images/laravel.png" width="50px"><br/>Laravel</td>
       <td align="center"><img src="./assets/images/expo.png" width="50px"><br/>React Native</td>
       <td align="center"><img src="./assets/images/vuejs.png" width="50px"><br/>VueJS<br /><a href="https://www.udemy.com/certificate/UC-d730c863-9d33-4063-83a3-7174d77e4604/" target="_blank">(ver certificado)</a></td>
+      <td align="center"><img src="./assets/images/expressjs.png" width="50px"><br/>ExpressJS<br /><a href="https://www.udemy.com/certificate/UC-524b78d6-0dd7-43ed-9cc0-538d04430801/" target="_blank">(ver certificado)</a></td>
+      <td><a href="https://docs.nestjs.com/"><img src="./assets/images/vlqCsAVP_400x400.png"width="50px"></a><br/>NestJS</td>
     </tr>
   </table>
 </div>
