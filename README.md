@@ -22,20 +22,42 @@
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
+## Backend
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/images/ts.png" width="50px"><br/>TypeScript</td>
+      <td align="center"><img src="./assets/images/nodejs.png" width="50px"><br/>NodeJS<br /><a href="https://platzi.com/p/orihuelajoaquin99/learning-path/7048-web-node/diploma/detalle/" target="_blank">(ver certificado)</a></td>
+      <td align="center"><img src="./assets/images/laravel.png" width="50px"><br/>Laravel</td>
+      <td align="center"><img src="./assets/images/expressjs.png" width="50px"><br/>ExpressJS<br /><a href="https://www.udemy.com/certificate/UC-524b78d6-0dd7-43ed-9cc0-538d04430801/" target="_blank">(ver certificado)</a></td>
+      <td><a href="https://docs.nestjs.com/"><img src="./assets/images/vlqCsAVP_400x400.png"width="50px"></a><br/>NestJS</td>
+      <td><a href="https://graphql.org/"><img src="./assets/images/1_oyUZ4k1clyKiaahg0pfixQ.png"width="50px"></a><br/>GraphQL</td>
+    </tr>
+  </table>
+</div>
+
+## Frontend
 <div align="center">
   <table>
     <tr>
       <td align="center"><img src="./assets/images/react.png" width="50px"><br/>ReactJS</td>
       <td align="center"><img src="./assets/images/nextjs.jpeg" width="50px"><br/>NextJS</td>
-      <td align="center"><img src="./assets/images/ts.png" width="50px"><br/>TypeScript</td>
-      <td align="center"><img src="./assets/images/nodejs.png" width="50px"><br/>NodeJS<br /><a href="https://platzi.com/p/orihuelajoaquin99/learning-path/7048-web-node/diploma/detalle/" target="_blank">(ver certificado)</a></td>
-      <td align="center"><img src="./assets/images/laravel.png" width="50px"><br/>Laravel</td>
       <td align="center"><img src="./assets/images/expo.png" width="50px"><br/>React Native</td>
       <td align="center"><img src="./assets/images/vuejs.png" width="50px"><br/>VueJS<br /><a href="https://www.udemy.com/certificate/UC-d730c863-9d33-4063-83a3-7174d77e4604/" target="_blank">(ver certificado)</a></td>
-      <td align="center"><img src="./assets/images/expressjs.png" width="50px"><br/>ExpressJS<br /><a href="https://www.udemy.com/certificate/UC-524b78d6-0dd7-43ed-9cc0-538d04430801/" target="_blank">(ver certificado)</a></td>
-      <td><a href="https://docs.nestjs.com/"><img src="./assets/images/vlqCsAVP_400x400.png"width="50px"></a><br/>NestJS</td>
+    </tr>
+  </table>
+</div>
+
+## Database
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://www.postgresql.org/"><img src="./assets/images/postgresql.png" width="50px"></a><br/>PostgreSQL</td>
+      <td align="center"><a href="https://www.mysql.com/"><img src="./assets/images/mysql.png" width="50px"></a><br/>Mysql</td>
+      <td align="center"><a href="https://www.mongodb.com/"><img src="./assets/images/mongodb.png" width="50px"></a><br/>MongoDB<br /></td>
     </tr>
   </table>
 </div>
