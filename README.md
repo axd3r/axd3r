@@ -32,7 +32,7 @@
       <td align="center"><img src="./assets/images/nodejs.png" width="50px"><br/>NodeJS<br /><a href="https://platzi.com/p/orihuelajoaquin99/learning-path/7048-web-node/diploma/detalle/" target="_blank">(ver certificado)</a></td>
       <td align="center"><img src="./assets/images/laravel.png" width="50px"><br/>Laravel</td>
       <td align="center"><img src="./assets/images/expressjs.png" width="50px"><br/>ExpressJS<br /><a href="https://www.udemy.com/certificate/UC-524b78d6-0dd7-43ed-9cc0-538d04430801/" target="_blank">(ver certificado)</a></td>
-      <td><a href="https://docs.nestjs.com/"><img src="./assets/images/vlqCsAVP_400x400.png"width="50px"></a><br/>NestJS</td>
+      <td><a href="https://docs.nestjs.com/"><img src="https://nestjs.com/img/logo-small.svg"width="50px"></a><br/>NestJS</td>
       <td><a href="https://graphql.org/"><img src="./assets/images/1_oyUZ4k1clyKiaahg0pfixQ.png"width="50px"></a><br/>GraphQL</td>
     </tr>
   </table>
